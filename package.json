@@ -1,0 +1,31 @@
+{
+  "name": "@puge/array",
+  "version": "1.0.1",
+  "description": "SVG动画选择框",
+  "author": "PUGE <my@owo.help>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puge/array.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PUGE/array/issues"
+  },
+  "homepage": "https://github.com/PUGE/array",
+  "keywords": [
+    "vue",
+    "component",
+    "tool",
+    "puge"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ]
+}
